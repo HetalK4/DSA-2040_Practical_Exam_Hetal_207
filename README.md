@@ -25,6 +25,6 @@ This is a transactional data set which contains all the transactions occurring b
 ### Task 1: Data Preprocessing and Exploration
 
 
-
+### Task 2: Clustering
 
 
