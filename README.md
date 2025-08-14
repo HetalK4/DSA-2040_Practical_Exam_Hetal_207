@@ -20,6 +20,9 @@ This is a transactional data set which contains all the transactions occurring b
 ### Task 3: OLAP Queries and Analysis
 
 
+## Section 2: Data Mining
+
+### Task 1: Data Preprocessing and Exploration
 
 
 
